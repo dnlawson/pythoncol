@@ -51,7 +51,7 @@
 
 ### str(), int(), and float() functions
 
-- Convert one data types into another (ex. float to string)
+- Convert one data type into another (ex. float to string)
 - ex. str(42.0)
 
 ## Project!!!
