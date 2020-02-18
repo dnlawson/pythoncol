@@ -1,6 +1,7 @@
 # Schedule (Spring 2020)
 
 Wednesdays from 3:15 - 4:15 PM in the Carpenter Digital Media and Collaboration Lab
+Contact Devin with any questions (email: dlawson@brynmawr.edu or find her at Carrel A101)
 
 ## 2/12 [Introduction](https://github.com/dnlawson/pythoncol/blob/master/sessions/feb12th.md)
 
