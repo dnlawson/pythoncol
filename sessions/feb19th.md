@@ -47,10 +47,12 @@
 ### The len() function
 
 - Evaluates how long a string is
+- ex. len("Devin")
 
 ### str(), int(), and float() functions
 
 - Convert one data types into another (ex. float to string)
+- ex. str(42.0)
 
 ## Project!!!
 
