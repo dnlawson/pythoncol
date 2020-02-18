@@ -9,7 +9,7 @@ Wednesdays from 3:15 - 4:15 PM in the Carpenter Digital Media and Collaboration 
 - Discuss vision for CoL
 - Introduction to Python and applications
 
-## 2/19 [Python Basics (Ch. 1 of Automate the Boring Stuff)] (https://github.com/dnlawson/pythoncol/blob/master/sessions/feb19th.md)
+## 2/19 [Python Basics - Ch. 1 of Automate the Boring Stuff] (https://github.com/dnlawson/pythoncol/blob/master/sessions/feb19th.md)
 
 - Entering expressions
 - Data types
