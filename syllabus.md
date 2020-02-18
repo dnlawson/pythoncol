@@ -1,4 +1,4 @@
-# Schedule Spring 2020
+# Schedule (Spring 2020)
 
 Wednesdays from 3:15 - 4:15 PM in the Carpenter Digital Media and Collaboration Lab
 
