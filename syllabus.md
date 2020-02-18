@@ -16,6 +16,7 @@
 - Data types
 - String concatenation and replication
 - Storing values in variables
+- Built in functions
 - Project!
 
 
