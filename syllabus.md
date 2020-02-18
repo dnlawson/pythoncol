@@ -11,5 +11,11 @@ Wednesdays from 3:15 - 4:15 PM in the Carpenter Digital Media and Collaboration 
 
 ## 2/19 Python Basics (Ch. 1 of Automate the Boring Stuff)
 
+- Entering expressions
+- Data types
+- String concatenation and replication
+- Storing values in variables
+- Project!
+
 
 
