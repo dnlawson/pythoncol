@@ -19,5 +19,7 @@
 - Built in functions
 - Project!
 
+## 2/26 Programming Python from the Command Line
+
 
 
