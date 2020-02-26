@@ -56,4 +56,4 @@
 
 ## Project!!!
 
-Write a program that asks the user for their name, greets the user by name, and then calculates the length of the user's name. The program should then ask the user for their age, calculate how old the user will be in one year, and print the answer as a string.
+Write a program that asks the user for their name, greets the user by name, and then calculates the length of the user's name. The program should then ask the user for their age, calculate how old the user will be in one year, and print the answer as a string. Compare your program with the program in the textbook. What differences are there? Are there any questions or improvements you would make to either program?
