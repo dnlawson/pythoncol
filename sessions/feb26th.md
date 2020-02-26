@@ -104,53 +104,6 @@
 
 Write a program that asks the user guess what number the computer is thinking of. After each guess, the program will tell the user whether the guess was too high or too low. If the user guesses correctly, the program congratulates the user and tells them how many guesses it took. If the user does not guess correctly within six guesses, print the number.
 
-### Book Program
-
-import random
-secretNumber = random.randint(1, 20)
-print('I am thinking of a number between 1 and 20.')
-
-for guessesTaken in range(1, 7):
-    print('Take a guess.')
-    guess = int(input())
-
-    if guess < secretNumber:
-        print('Your guess is too low.')
-    elif guess > secretNumber:
-        print('Your guess is too high.')
-    else:
-        break    # This condition is the correct guess!
-
-if guess == secretNumber:
-    print('Good job! You guessed my number in ' + str(guessesTaken) + '
-guesses!')
-else:
-    print('Nope. The number I was thinking of was ' + str(secretNumber))
-
-### Devin's Program 
-
-numGuesses = 0 #sets number of guesses equal to zero
-import random #imports random module
-secretNumber = random.randint(1,20) #assigns the variable secretNumber to a random integer between 1 and 20
-
-print("I am thinking of a number between 1 and 20")
-
-while numGuesses <= 6: #while the number of guesses is less than or equal to 6
-    print("Take a guess.") #ask the user to guess
-    guess = int(input())
-    numGuesses = numGuesses + 1 #add 1 to the number of guesses
-    if guess < secretNumber:
-        print("Your guess is too low. Guess again.")
-    elif guess > secretNumber:
-        print("Your guess is too high. Guess again.")
-    else:
-        break
-
-if guess == secretNumber:
-    print("Congratulations! You won! It took you " + str(numGuesses) + " guesses to correctly guess.")
-else:
-    print("Sorry that was not the number I was thinking of. I was thinking of the number " + str(secretNumber) + "instead.")
-
 ## Program: Rock, Paper, Scissors 
 
 Write a program that plays a game of rock, paper, scissors with the user and keeps track of the number of wins, losses, and ties. 
