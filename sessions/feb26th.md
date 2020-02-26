@@ -42,14 +42,68 @@
 
 ## Flow Control Statements 
 
-- 
+- **Flow Congtrol Statements** are the decisions that a program makes
 
-## The Starting, Stopping, and Stepping Arguments to range()
+### if Statements
+
+- An **if statement's** clause will execute if the statement's condition is True. The clause is skipped if the condition is False. 
+- "If this condition is true, execute the code in this clause"
+- An if statement consists of the following parts: 1. The if keyword 2. A condition (that is, an expression that evaluates to True or False) 3. A colon 4. Starting on the next line, an indented block of code (called the **if clause**)
+
+### else Statements 
+
+- Often follows an if clause
+- An **else statement** is executed only when the if statement's condition is False
+- "If this condition is true, execute this code. Or else, execute that code."
+- An else statement doesn't have a condition
+- An else condition consists of the following parts: 1. The else keyword 2. A colon 3. Starting on the next line, an indented block of code (called the **else clause**)
+
+### elif Statements
+
+- An **elif (else if) statement** always follows an if or another elif statement. It provides another condition that is checked only if all of the previous conditions were false.
+- An elif statement consists of the following parts: 1. The elif keyword 2. A condition (that is, an expression that evaluates to True or False) 3. A colon 4. Starting on the next line, an indented block of code (called the **elif clause**)
+- There is no guarantee that one of the clauses will be executed 
+- In a chain of elif statements, one or none will be executed 
+- Once one of the statement's conditions evaluates to True, the rest of the elif clauses are skipped 
+- Order matters 
+- An else statement can be placed after the last elif statement. This means that at least one of the clauses will execute. 
+
+### while Loop Statements 
+
+- The code in a **while loop** will be executed as long as the while statement's condition is true
+- A While statement consists of the following parts: 1. The while keyword 2. A condition (that is, an expression that evaluates to True or False) 3. A colon 4. Starting on the next line, an indented block of code (called the **while clause**)
+- **BEWARE INFINITE LOOPS**
+
+### break Statements:
+
+- Used inside while loops
+- If the execution in a while loop reaches a **break statement**, it will automatically exit the while loop's clause
+- In code, a break statement simply contains the break keyword 
+
+### continue Statements 
+
+- Used inside while loops
+- When the program execution reaches a continue statement, the program execution immediatley jumps back to the start of the loop and reevaluates the loop's condition
+
+### for Loops and the range() Function
+
+- A **for loop with a range() function** will execute a block of code a certain number of times
+- In code, a for statement consists of the following parts: 1. The for keyword 2. A variable name 3. The in keyword 4. A call to the range() method with up to three integers passed to it 5. A colon 6. Starting on the next line, an indented block of code (called the for clause)
+- Break and continue statements can also be used in for loops
+- Everything that can be done with a for loop can also be done with a while loop
+- Up to three integers can be passed into the range() function. One integer will be how many times the loop executes. The first of two integers will determine what number the for loop starts at and the second of two integers will determine what number the for loop startws at (n-1). For three integers, the first and second arguments will be the start and stop values, while the third argument will be the step argument, which is the amount that the variable is increased by after each iteration.
+- Negative numbers can be passed into the range() function and will count down backwards 
 
 ## Importing Modules
 
-## Ending a Program Early with the sys.exit() Function
+- Python has a standard library that contains a group of related functions that can be embedded into programs 
+- In code, an import statement consists of the following: 1. The import keyword 2. The name of the module 3. Optionally, more module names, as long as they are separated by commas
+- Examples: random, sys, os, math
 
 ## Program: Guess the Number
 
+Write a program that asks the user guess what number the computer is thinking of. After each guess, the program will tell the user whether the guess was too high or too low. If the user guesses correctly, the program congratulates the user and tells them how many guesses it took. If the user does not guess correctly within six guesses, print the number.
+
 ## Program: Rock, Paper, Scissors 
+
+Write a program that plays a game of rock, paper, scissors with the user and keeps track of the number of wins, losses, and ties. 
