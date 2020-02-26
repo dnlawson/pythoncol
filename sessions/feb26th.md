@@ -39,7 +39,7 @@
 
 - Lines of Python code can be grouped together in **blocks**
 - Rules for blocks:
-1. 
+        1. 
 
 ## Flow Control Statements 
 
