@@ -1,4 +1,6 @@
-# Schedule (Spring 2020)
+# Syllabus (Spring 2020)
+
+## Meeting and Contact Info
 
 - We will meet on Wednesdays from 3:15 - 4:15 PM in the Carpenter Digital Media and Collaboration Lab
 - Contact Devin with any questions either by email (dlawson@brynmawr.edu) or find her at Carrel A101
