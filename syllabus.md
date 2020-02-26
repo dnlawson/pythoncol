@@ -19,7 +19,7 @@
 - Built in functions
 - Project!
 
-## 2/26 Programming Python from the Command Line
+## 2/26 Flow Control (Ch.2 of Automate the Boring Stuff) and Python from the Command Line
 
 
 
