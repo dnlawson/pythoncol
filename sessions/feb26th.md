@@ -33,15 +33,16 @@
 
 ### Conditions
 
-- **Conditions** always evaluate down to a Boolean value. A flow control statement decides what to do based on whether its conditions are True or False, and almost every flow control statements uses a condition. 
+- **Conditions** are expressions specifically for flow control statements. They always evaluate down to a Boolean value. A flow control statement decides what to do based on whether its conditions are True or False, and almost every flow control statements uses a condition. 
 
 ### Blocks of Code
 
 - Lines of Python code can be grouped together in **blocks**
-- Rules for blocks:
-        1. 
+- Rules for blocks: 1. blocks begin when indentation increases 2. blocks can contain other blocks 3. blocks end when the indentation decreases to zero or to a containing block's indentation
 
 ## Flow Control Statements 
+
+- 
 
 ## The Starting, Stopping, and Stepping Arguments to range()
 
