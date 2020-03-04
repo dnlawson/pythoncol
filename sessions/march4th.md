@@ -6,6 +6,7 @@
 
 - The output of the program should look like this:
 
+  ```
   I am thinking of a number between 1 and 20.
   Take a guess.
   10
@@ -19,4 +20,9 @@
   Take a guess.
   16
   Good job! You guessed my number in 4 guesses!
+  ```
+  
+ dfjkd
+  
+  
 
