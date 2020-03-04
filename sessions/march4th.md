@@ -6,7 +6,7 @@
 
 - The output of the program should look like this:
 
-I am thinking of a number between 1 and 20.
+```I am thinking of a number between 1 and 20.
 Take a guess.
 10
 Your guess is too low.
@@ -18,7 +18,7 @@ Take a guess.
 Your guess is too high.
 Take a guess.
 16
-Good job! You guessed my number in 4 guesses!
+Good job! You guessed my number in 4 guesses!```
 
 - What are other options for how we could have written this program?
 
