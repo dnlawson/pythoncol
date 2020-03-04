@@ -22,7 +22,14 @@
   Good job! You guessed my number in 4 guesses!
   ```
   
- dfjkd
+ - What are other options for how we could have written this program?
+
+## Program: Rock, Paper, Scissors
+
+- Write a program that plays a game of rock, paper, scissors with the user and keeps track of the number of wins, losses, and ties. 
+
+- What are other options for how we could have written this program?
+
   
   
 
