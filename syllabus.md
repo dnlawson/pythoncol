@@ -23,6 +23,8 @@
 
 ## 2/26 [Flow Control (Ch.2 of Automate the Boring Stuff) and Python from the Command Line](https://github.com/dnlawson/pythoncol/blob/master/sessions/feb26th.md)
 
+- Programming Python from the command line
+
 ## 3/4 [Playing Around With Loops](https://github.com/dnlawson/pythoncol/blob/master/sessions/march4th.md)
 - Project: Guess the Number
 - Project: Rock, Paper, Scissors
